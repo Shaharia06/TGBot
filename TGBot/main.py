@@ -35,7 +35,7 @@ from telegram.ext import (
 )
 
 # 🔐 বট টোকেন ও অ্যাডমিন আইডি
-BOT_TOKEN = "7375483284:AAGqPYBkEHfZumXVN_1KT7-HwlTQT-e8FhM"
+BOT_TOKEN = "7632441744:AAGwpaUtsjO-S4Bj9OuD8MQKTNBDCeWiah0"
 ADMIN_ID = 7949308405
 
 # 🔠 Markdown Escape
